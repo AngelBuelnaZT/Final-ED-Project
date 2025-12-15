@@ -1,0 +1,22 @@
+{
+  "id": "root_01",
+  "name": "root",
+  "type": "FOLDER",
+  "content": "",
+  "children": [
+    {
+      "id": "file_01",
+      "name": "proyecto.cpp",
+      "type": "FILE_NODE",
+      "content": "#include <iostream>...",
+      "children": []
+    },
+    {
+      "id": "folder_02",
+      "name": "docs",
+      "type": "FOLDER",
+      "content": "",
+      "children": []
+    }
+  ]
+}
