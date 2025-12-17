@@ -1,0 +1,19 @@
+mkdir universidad
+cd universidad
+mkdir sistemas
+mkdir industrial
+touch temario.pdf
+ls
+cd sistemas
+touch proyecto_final.cpp #include<iostream>
+touch notas.txt pendiente
+ls
+cd ..
+cd ..
+search proy
+stress
+cd stress_test_1
+ls
+search file_4999
+save
+exit
